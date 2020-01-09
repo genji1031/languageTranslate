@@ -1,2 +1,5 @@
 # languageTranslate
 通过百度api对pdf做语言翻译
+
+
+需要我们建立一个名为resultFile 的空文件夹用来存储我们的程序生成的文本文件
